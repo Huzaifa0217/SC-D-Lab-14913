@@ -2,6 +2,6 @@
 usign namespace std;
 
 int main() {
-    cout << "Hello, World!" << endl;
+    cout << "Huzaifa" << endl;
     return 0;
 }
